@@ -1,0 +1,14 @@
+.grid-conteiner{
+
+ display: grid;
+ grid-template-columns: 80px 200px auto 40px ;
+
+}
+
+.item{
+
+border: 1px solid red;
+width: 100px;
+height: 100px;
+
+}
